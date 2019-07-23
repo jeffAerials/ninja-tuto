@@ -1,7 +1,7 @@
 Master:
 [![pipeline status](https://gitlab.com/JeffReb/ninja-tuto/badges/master/pipeline.svg)](https://gitlab.com/JeffReb/ninja-tuto/commits/master)
 [![coverage report](https://gitlab.com/JeffReb/ninja-tuto/badges/master/coverage.svg)](https://gitlab.com/JeffReb/ninja-tuto/commits/master)
-[![coverage report](https://gitlab.com/JeffReb/ninja-tuto/badges/master/coverage.svg)](https://gitlab.com/JeffReb/ninja-tuto/commits/master)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/676db50ec678486584f0c97c4dc98c6c)](https://www.codacy.com/app/jeffAerials/ninja-tuto?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=jeffAerials/ninja-tuto&amp;utm_campaign=Badge_Grade)
 [![Known Vulnerabilities](https://snyk.io//test/github/jeffAerials/ninja-tuto/badge.svg?targetFile=package.json)](https://snyk.io//test/github/jeffAerials/ninja-tuto?targetFile=package.json)
 
 
