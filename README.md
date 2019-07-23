@@ -1,5 +1,8 @@
 Master:
-
+[![pipeline status](https://gitlab.com/JeffReb/ninja-tuto/badges/master/pipeline.svg)](https://gitlab.com/JeffReb/ninja-tuto/commits/master)
+[![coverage report](https://gitlab.com/JeffReb/ninja-tuto/badges/master/coverage.svg)](https://gitlab.com/JeffReb/ninja-tuto/commits/master)
+[![coverage report](https://gitlab.com/JeffReb/ninja-tuto/badges/master/coverage.svg)](https://gitlab.com/JeffReb/ninja-tuto/commits/master)
+[![Known Vulnerabilities](https://snyk.io//test/github/jeffAerials/ninja-tuto/badge.svg?targetFile=package.json)](https://snyk.io//test/github/jeffAerials/ninja-tuto?targetFile=package.json)
 
 
 Develop branch:
